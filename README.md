@@ -6,7 +6,7 @@ This exemple use the 2018 LTS Unity Version (2018.4.16f1)
 
 Ingame image
 
-![Image](git/infiniterunner01.jpg)
+![Image](Git/infiniterunner01.jpg)
 
 # Project Information
 
