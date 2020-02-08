@@ -6,7 +6,7 @@ This exemple use the 2018 LTS Unity Version (2018.4.16f1)
 
 Ingame image
 
-![Screenshot](git/infiniterunner01.jpg)
+![Image] (git/infiniterunner01.jpg)
 
 # Project Information
 
@@ -23,3 +23,5 @@ You can found the character used [here] (https://assetstore.unity.com/packages/3
 # Additional Settings 
 
 This game have a responsive screen, so you can play it in every screen with the 16:10 or 16:9 ratio.
+
+[link to Google!](http://google.com)
