@@ -1,6 +1,6 @@
 # Unity-InfiniteRunner-GameStudy
 
-This exemple use the 2018 LTS Unity Version (2018.4.16f1)
+This exemple use the 2018 LTS Unity Version (2018.4.20f1)
 
 # Screenshot Exemples
 
